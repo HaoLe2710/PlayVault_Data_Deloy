@@ -2,7 +2,7 @@
   "name": "playvault_data",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch games_data.json --port 3000"
+    "start": "npx json-server --watch games_data.json --port 3000"
   },
   "keywords": [],
   "author": "",
