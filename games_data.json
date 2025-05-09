@@ -2706,6 +2706,12 @@
       "username": "thuan",
       "email": "123@gmai.com",
       "password": "123456"
+    },
+    {
+      "id": 33,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
     }
   ],
   "wishlist": [
