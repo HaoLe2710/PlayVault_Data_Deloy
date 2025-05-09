@@ -1,5 +1,5 @@
 // server.js
-import { create, router as _router, defaults } from 'json-server';
+const jsonServer = require('json-server');
 const server = create();
 const router = _router('games_data.json');
 const middlewares = defaults();
